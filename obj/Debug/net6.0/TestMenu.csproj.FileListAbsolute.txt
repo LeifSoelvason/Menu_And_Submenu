@@ -1,0 +1,15 @@
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.csproj.AssemblyReference.cache
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.AssemblyInfoInputs.cache
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.AssemblyInfo.cs
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.csproj.CoreCompileInputs.cache
+C:\Users\leisol\Desktop\Tests\TestMenu\bin\Debug\net6.0\TestMenu.exe
+C:\Users\leisol\Desktop\Tests\TestMenu\bin\Debug\net6.0\TestMenu.deps.json
+C:\Users\leisol\Desktop\Tests\TestMenu\bin\Debug\net6.0\TestMenu.runtimeconfig.json
+C:\Users\leisol\Desktop\Tests\TestMenu\bin\Debug\net6.0\TestMenu.dll
+C:\Users\leisol\Desktop\Tests\TestMenu\bin\Debug\net6.0\ref\TestMenu.dll
+C:\Users\leisol\Desktop\Tests\TestMenu\bin\Debug\net6.0\TestMenu.pdb
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.dll
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\ref\TestMenu.dll
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.pdb
+C:\Users\leisol\Desktop\Tests\TestMenu\obj\Debug\net6.0\TestMenu.genruntimeconfig.cache
